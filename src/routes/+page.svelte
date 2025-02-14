@@ -137,7 +137,7 @@
         height: 100dvh;
         margin: 0;
         padding: 0;
-        background: url(./background.svg);
+        background: url(/background.svg);
         background-position: top;
         background-size: cover;
         background-repeat: no-repeat;
