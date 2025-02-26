@@ -115,7 +115,7 @@
     </div>
 </main>
 <footer>
-    <p class="credits">
+    <p>
         created by <a
             href="https://github.com/anrelps"
             target="_blank"
@@ -165,7 +165,6 @@
 
     h1 {
         font-family: 'Righteous', serif;
-        color: white;
         text-align: center;
         padding-top: 10rem;
         padding-bottom: 2rem;
@@ -218,10 +217,6 @@
         border-radius: 8px;
         margin: 1rem 0;
         border: 1px solid rgba(255, 68, 68, 0.3);
-    }
-
-    .credits {
-        color: rgba(255, 255, 255, 0.5);
     }
 
     @media (max-width: 512px) {
